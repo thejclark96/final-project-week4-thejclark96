@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdlib.h": "c"
+    },
+    "cSpell.words": [
+        "conds",
+        "CTEST",
+        "ggravity",
+        "sjftests"
+    ]
+}

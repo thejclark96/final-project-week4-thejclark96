@@ -56,7 +56,7 @@ static void blink_task(void *arg){
 
 
 
-    while (1){
+    // while (1){
 
 
         /* Call all the physics functions */
@@ -77,5 +77,5 @@ static void blink_task(void *arg){
         (&h_mass)->x_pos = (&h_mass)->x_pos + (&h_mass)->x_vel;
         x_prev_pos = (&h_mass)->x_pos;                                 // Store previous position
 
-    }
+    // }
 }
